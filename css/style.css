@@ -1,0 +1,13 @@
+body{
+    
+    background-color:black;
+    
+}
+
+.contact-section{
+    background-image: url(../css/images/footer.jpg);background-size:100%;background-repeat:no-repeat;}
+    .nav-item 
+         a{font-size: large;}
+i{border-image: round;}
+
+
